@@ -1,4 +1,4 @@
 # hangman-game
 
 
-Created in c by Arthur Diniz.
+Created in C by Arthur Diniz.
